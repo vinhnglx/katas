@@ -1,4 +1,3 @@
-require 'byebug'
 class FiboNum
   def self.fibo(number)
     if number <= 1
