@@ -23,7 +23,6 @@ class FiboNum
   def self.show(number)
     fibos = []
     if number > 1
-      i = 1
       (1..number).each do |n|
         fibos << n if fibo?(n)
       end
