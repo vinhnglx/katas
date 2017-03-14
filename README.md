@@ -8,3 +8,9 @@ Euler 2: Show list of fibo less than a number
 
 Euler 3: Show largest prime number in a list of divisor numbers from a specify n
 
+Euler 4: Largest palindrome product
+
+Euler 5: Lowest common multiple of many numbers
+
+Euler 6: Sum square difference
+
