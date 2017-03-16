@@ -14,3 +14,7 @@ Euler 5: Lowest common multiple of many numbers
 
 Euler 6: Sum square difference
 
+Euler 7: Nth prime number
+
+Euler 8: Largest product of consecutive n digit in a n digit numbers
+
