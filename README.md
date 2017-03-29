@@ -18,3 +18,6 @@ Euler 7: Nth prime number
 
 Euler 8: Largest product of consecutive n digit in a n digit numbers
 
+Euler 9: Pythagorean triplets
+
+Euler 10: Summation of primes
