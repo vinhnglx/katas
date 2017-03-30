@@ -21,3 +21,5 @@ Euler 8: Largest product of consecutive n digit in a n digit numbers
 Euler 9: Pythagorean triplets
 
 Euler 10: Summation of primes
+
+Euler 12: Highly Divisible Triangular number - Smallest triangle number has 500 divisors
